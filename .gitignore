@@ -1,0 +1,19 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Godot 3 specific ignores
+.import/
+
+# General Godot ignores
+export_presets.cfg
+*.translation
+
+# Exported files
+/export/
+*.exe
+*.pck
+
+# Mono/C# specific ignores
+.mono/
+/bin/
+/obj/
